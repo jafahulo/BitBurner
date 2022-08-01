@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "bitburner.authToken": "fXztq+mL3LjzPX6Zmgp3VlQvN4biweaFag7CuDXWofezepgPGI4XyH8xGQbfxXk+",
+    "bitburner.showPushSuccessNotification": true,
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "files.exclude": {
+        "jsconfig.json": true,
+        "NetscriptDefinitions.d.ts": true,
+    }
+}
